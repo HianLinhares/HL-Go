@@ -1,0 +1,27 @@
+Linguagem GO
+
+idealizada em 2007 pelo Google, criado por 3 desenvolvedores,
+em 2008 torna-se um projeto pelo google e em 2009 é lançada
+
+
+-compilada
+-sintaxe simples
+-orientada a objetos (sem herança)
+-Estaticamente e fortmente tipada
+
+
+Por que estudar GO
+
+-Linguagem simples, rápida e fácil
+-Biblioteca padrão robusta
+-Linguagem que mais cresce em número de usuários 
+
+
+Empresas que usam GO
+
+Google
+Globo.com
+MagazineLuiza
+Mercado Livre
+
+
