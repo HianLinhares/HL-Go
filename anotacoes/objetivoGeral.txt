@@ -1,0 +1,8 @@
+Este curso foi planejado para programadores sem nenhum conhecimento em go
+
+Pré requisitos
+
+-um computador com acesso a internet
+-muita vontade de aprender
+-curso introdução a linguagem go 
+

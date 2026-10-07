@@ -1,0 +1,39 @@
+LINGUAGEM ESTATICAMENTE TIPADA
+
+-inteiros-> 1;2;3;-1;0;-3;
+-tem tamanho definido 
+-tipos inteiros em go-> uint8, uint16, uint32,uint64, int8, int16, int32, int64
+-uint-> unsigned integer (inteiro sem sinal somente números positivos)
+-int-> singed integer (inteiro com sinal de menos "-" e "+")
+
+
+PONTO FLUTUANTE
+
+-float-> 1,234; 5,43
+-tem ponto flutuante definido
+-tipos de ponto flutuante em Go: float32, float64
+-em geral usamos float64
+
+
+TABELA DE TIPOS
+
+| Tipo    | Bits | Faixa                                   |
+|---------|------|-----------------------------------------|
+| int8    | 8    | -128 a 127                              |
+| uint8   | 8    | 0 a 255                                 |
+| int16   | 16   | -32.768 a 32.767                        |
+| uint16  | 16   | 0 a 65.535                              |
+| int32   | 32   | cerca de ±2,1 bilhões                   |
+| uint32  | 32   | 0 a cerca de 4,2 bilhões                |
+| int64   | 64   | cerca de ±9,2 quintilhões               |
+| uint64  | 64   | 0 a cerca de 18,4 quintilhões           |
+| float32 | 32   | decimal com ~7 dígitos de precisão      |
+| float64 | 64   | decimal com ~15 a 16 dígitos de precisão|
+
+
+BOOLEANOS
+
+-homenagem ao matemático Geoger Boole 
+-representa verdadeiro ou Falso (Ligado ou Desligado)
+-Operadores lógicos &&, ||, !
+
